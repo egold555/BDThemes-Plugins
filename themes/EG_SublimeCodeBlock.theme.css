@@ -1,0 +1,32 @@
+/**
+ * @name EG - Sublime Syntax Highlighting
+ * @author Eric Golde
+ * @version 1.0.0
+ * @description Makes Discord's CSS syntax highlighting look like Sublime
+*/
+
+.hljs-tag,
+.hljs-important,
+.hljs-at_rule,
+.hljs-keyword {
+	color: #f92672 !important;
+}
+.hljs-class,
+.hljs-id {
+	color: #a6e300 !important;
+}
+.hljs-value,
+.hljs-hexcolor,
+.hljs-number,
+.hljs-function {
+	color: rgba(255, 255, 255, 0.8) !important;
+}
+.hljs-attribute {
+	color: #82d4e5 !important;
+}
+.hljs-comment {
+	color: #686545 !important;
+}
+.hljs-pseudo {
+	color: #fff !important;
+}

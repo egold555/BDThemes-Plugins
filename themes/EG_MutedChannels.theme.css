@@ -1,0 +1,10 @@
+/**
+ * @name EG - Muted Channels
+ * @author Eric Golde
+ * @version 1.0.0
+ * @description Cross out muted channels so you know it's more obvious its muted
+*/
+
+.modeMuted-3osy7j .icon-1_QxNX, .modeMuted-3osy7j .name-3_Dsmg {
+    text-decoration: line-through;
+}

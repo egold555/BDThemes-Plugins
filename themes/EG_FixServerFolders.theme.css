@@ -1,0 +1,15 @@
+/**
+ * @name EG - Fix Server Folders
+ * @author Eric Golde
+ * @version 1.0.0
+ * @description Css Fix for server folders looking strange
+*/
+
+.expandedFolderBackground-2sPsd-,
+.da-expandedFolderBackground {
+	left: 8px !important;
+}
+
+.wrapper-21YSNc .da-blobContainer {
+	margin-left: -9px !important;
+}

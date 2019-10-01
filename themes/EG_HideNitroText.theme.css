@@ -1,0 +1,10 @@
+/**
+ * @name EG - Hide Nitro Text
+ * @author Eric Golde
+ * @version 1.0.0
+ * @description I will never gift anybody!
+*/
+
+.da-channelTextArea .da-buttons button[tabindex="2"] {
+    visibility: hidden;
+}

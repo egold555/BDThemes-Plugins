@@ -1,0 +1,12 @@
+/**
+ * @name EG - Hide welcome
+ * @author Eric Golde
+ * @version 1.0.0
+ * @description Hide welcome message in the first channel of every server.
+*/
+
+.da-welcomeMessage {
+    visibility: hidden;
+    height: 0;
+    padding: 0;
+}
