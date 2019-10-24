@@ -1,23 +1,14 @@
 /**
  * @name EG - Background
- * @author Eric Golde
+ * @author Eric Golde, puckzyz
  * @version 1.0.0
  * @description My config for NotANotherAnimeTheme, plus a very minor theme change
 */
 
-/*Make sure you're up to date at https://goo.gl/jfR9BS*/
+/* NotANotherAnimeTheme */
+@import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/puckzxz/NotAnotherAnimeTheme/master/css/dcsl.css);
 
-/* 1 ROW */
-/*@import url(https://cdn.discordthemes.net/file/notanotheranimetheme/ccsl.css);*/
 
-/* 2 ROW */
-@import url(https://cdn.discordthemes.net/file/notanotheranimetheme/dcsl.css);
-
-/* 3 ROW */
-/*@import url(https://cdn.discordthemes.net/file/notanotheranimetheme/tcsl.css);*/
-
-/* 4 ROW */
-/*@import url(https://cdn.discordthemes.net/file/notanotheranimetheme/qcsl.css);*/
 :root {
     /* Edit this to change your background */
     --background-image: url(https://i.imgur.com/7SwrE5R.jpg); /* format is url(IMAGE URL HERE) */
