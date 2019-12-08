@@ -5,6 +5,11 @@
  * @description I will never gift anybody!
 */
 
-.da-channelTextArea .da-buttons button[tabindex="3"] {
-    visibility: hidden;
+/*Remove Nitro present button when sending messages*/
+.da-channelTextArea .da-buttons button[tabindex="2"] {
+    display: none;
+}
+
+.da-channel[href^="/store"] {
+	display:none;
 }
