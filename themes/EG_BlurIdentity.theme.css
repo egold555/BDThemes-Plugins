@@ -1,0 +1,11 @@
+/**
+ * @name EG - Blur Identity
+ * @author Eric Golde
+ * @version 1.0.0
+ * @description Blur out any identifyable information for all users. Useful when recording your Discord.
+*/
+
+.da-subtext, .da-headerTag, .da-descriptionUsername, .da-descriptionDiscriminator, .da-viewBody {
+    filter: blur(5px);
+    transition: 200ms cubic-bezier(.2, .11, 0, 1);
+}
