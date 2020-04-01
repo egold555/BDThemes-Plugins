@@ -18,7 +18,7 @@
     --rs-streaming-color: #643da7; /* color for streaming status */
 }
 
-#app-mount .wrapper-3t9DeA * { overflow: visible; mask: none; backface-visibility: hidden;}
+#app-mount .wrapper-3t9DeA * { overflow: overlay; mask: none; backface-visibility: hidden;}
 
 #app-mount .wrapper-3t9DeA .dots-3Bkt3k { position: relative; z-index: 2; }
 
