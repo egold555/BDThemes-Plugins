@@ -6,7 +6,7 @@
 */
 
 /*Remove Nitro present button when sending messages*/
-.da-channelTextArea .da-buttons button[tabindex="2"] {
+.da-channelTextArea .da-buttons button[aria-label="Send a gift"] {
     display: none;
 }
 
