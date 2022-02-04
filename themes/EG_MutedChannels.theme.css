@@ -5,6 +5,10 @@
  * @description Cross out muted channels so you know it's more obvious its muted
 */
 
-.modeMuted-3osy7j .icon-1_QxNX, .modeMuted-3osy7j .name-3_Dsmg {
+.modeMuted-2T4MDZ .icon-2W8DHg, .modeMuted-2T4MDZ .name-28HaxV {
     text-decoration: line-through;
+}
+
+.da-muted {
+	text-decoration: line-through;
 }
